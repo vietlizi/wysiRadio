@@ -9,7 +9,7 @@ A random bot that plays YouTube music in chats.
 - Run the script using python music_bot.py.
 
 # Commands
-Play a Song: !olay <YouTube_URL>.
+Play a Song: !play <YouTube_URL>.
 _Replace <YouTube_URL> with the URL to the YouTube video or music to play._
 
 Skip the current song: !skip
